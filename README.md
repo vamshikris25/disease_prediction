@@ -1,1 +1,2 @@
-# disease_prediction
+# Disease Prediction
+https://diseaseprediction-vamshi25.streamlit.app/
